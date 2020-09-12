@@ -9,33 +9,8 @@ images:
 - images/pexels-photo-196666.jpeg
 ---
 
-# こんにちは北海道
+# Hugo Techdoc Theme
 
-## 見出し2
-
-- あああああああああああああああああああああああ
-- あああああああああああああああああああああああ
-- あああああああああああああああああああああああ
-- あああああああああああああああああああああああ
-
-
-## 見出し2-1
-
-
-1. いいいいいいいいいいいいいい
-1. いいいいいいいいいいいいいい
-1. いいいいいいいいいいいいいい
-1. いいいいいいいいいいいいいい
-1. いいいいいいいいいいいいいい
-
-
-## 見出し2-2
-
-```
-aakljfld dfkjdklfkad lkjkljfa fkjdlfja  jflkdfla kfjlda fdkfad
-aakljfld dfkjdklfkad lkjkljfa fkjdlfja  jflkdfla kfjlda fdkfad
-aakljfld dfkjdklfkad lkjkljfa fkjdlfja  jflkdfla kfjlda fdkfad
-```
 ## The Techdoc is a Hugo Theme for technical documentation.
 
 ## Features
